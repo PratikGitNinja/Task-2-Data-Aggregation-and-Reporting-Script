@@ -1,0 +1,11 @@
+Process:
+=======
+1. Create a data in csv file and named it sales_data.csv.
+2. Read sales_data.csv file.
+3. Calculate total sales amount for each product.
+4. Calculate the total quantity sold for each product.
+5. Calculate the average transaction amount per customer.
+6. Create a summary report for:
+				1. total sales amount and quantity sold for each product.
+				2. Average transaction amount per customer.
+7. Save the summary report to a new csv file named as product_summary_report.csv and customer_summary_report.csv.
